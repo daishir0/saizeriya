@@ -18,8 +18,12 @@ Command:
 python saizeriya.py sai1.png sai2.png
 ```
 Output Images:
-- Aligned and difference-marked image: ![yyyymmdd-hhmmss.png](yyyymmdd-hhmmss.png)
-- Difference-only image: ![yyyymmdd-hhmmss-diff.png](yyyymmdd-hhmmss-diff.png)
+- Aligned and difference-marked image:
+
+![yyyymmdd-hhmmss.png](yyyymmdd-hhmmss.png)
+- Difference-only image:
+
+![yyyymmdd-hhmmss-diff.png](yyyymmdd-hhmmss-diff.png)
 
 #### Notes
 - Ensure that the input images are of similar size and orientation.
