@@ -55,8 +55,12 @@ python saizeriya.py <path_to_image1> <path_to_image2>
 python saizeriya.py sai1.png sai2.png
 ```
 出力画像:
-- 整列され、差分がマークされた画像: ![yyyymmdd-hhmmss.png](yyyymmdd-hhmmss.png)
-- 差分のみの画像: ![yyyymmdd-hhmmss-diff.png](yyyymmdd-hhmmss-diff.png)
+- 整列され、差分がマークされた画像:
+
+![yyyymmdd-hhmmss.png](yyyymmdd-hhmmss.png)
+- 差分のみの画像:
+
+![yyyymmdd-hhmmss-diff.png](yyyymmdd-hhmmss-diff.png)
 
 #### 注意点
 - 入力される画像は、似たサイズと向きであることを確認してください。
