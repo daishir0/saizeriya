@@ -2,8 +2,8 @@
 `saizeriya.py` is a Python script for aligning two images and detecting differences. It is useful for applications like image comparison, change detection, and quality control.
 
 #### Installation
-1. Clone the repository: `git clone [repository-url]`
-2. Navigate to the project directory: `cd [project-directory]`
+1. Clone the repository: `git clone https://github.com/daishir0/saizeriya`
+2. Navigate to the project directory: `cd saizeriya`
 3. Install dependencies: `pip install -r requirements.txt`
 
 #### Usage
@@ -35,8 +35,8 @@ This project is licensed under the MIT License.
 `saizeriya.py`は、二つの画像を整列させて差異を検出するためのPythonスクリプトです。画像比較、変更検出、品質管理などに役立ちます。
 
 #### インストール方法
-1. リポジトリをクローンする: `git clone [repository-url]`
-2. プロジェクトディレクトリに移動する: `cd [project-directory]`
+1. リポジトリをクローンする: `git clone https://github.com/daishir0/saizeriya`
+2. プロジェクトディレクトリに移動する: `cd saizeriya`
 3. 依存関係をインストールする: `pip install -r requirements.txt`
 
 #### 使い方
